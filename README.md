@@ -9,7 +9,9 @@ Este proyecto es una aplicación web desarrollada con Flask que permite cargar a
 - 
 ##  Instalación y ejecución
 1- Clona este repositorio:https://github.com/SantiagoBarrientosF/Proyecto_informe_ticket.
+
 2- Instala las dependencias "pip install -r requirements.txt".
+
 3- Ejecuta la aplicación "python app.py".
 
 # Uso de la aplicación
