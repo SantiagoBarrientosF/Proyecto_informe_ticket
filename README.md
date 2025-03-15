@@ -31,7 +31,8 @@ proyecto_informes_tiket/
     │
     ├── index.html # Página principal de carga del archivo.
     │
-    ├── resultado.html # Página de resultados después del procesamiento.
+    ├── resultado.html # Página de resultados después del procesamiento del archivo SIMM.
+    |___ resultado_seguimiento.html # pagina de resultado despues del procesmiento del archivo seguimiento final.
     
 │── uploads/ # Carpeta donde se guardan los archivos subidos. 
     │
